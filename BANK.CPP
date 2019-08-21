@@ -1,6 +1,8 @@
 //                   BANK MANAGMENT SYSTEM
+//                 Done by Lakshman Sivakumar
+
 // HEADER FILES
-// Done by Lakshman Sivakumar
+
 #include<iostream.h>
 #include<conio.h>
 #include<dos.h>
