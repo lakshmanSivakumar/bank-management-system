@@ -1,6 +1,6 @@
 # bank-management-system
 Bank management system using c++ files.
-There are 6 functionalities in this project:
+There are 7 functionalities in this project:
   1. Create a new account
   2. Depsit amount
   3. Withdraw amount
